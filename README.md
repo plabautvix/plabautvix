@@ -1,30 +1,29 @@
-# Introdução
+# Hi there 👋
 
-Sou Pedro, um aspirante a **desenvolvedor Ethereum e Web3**.
-Atualmente estou aprendendo os fundamentos das tecnologias descentralizadas e construindo meus primeiros projetos no ecossistema.
+I’m Pedro, an aspiring **Ethereum and Web3 developer**.
+Currently, I am learning the fundamentals of decentralized technologies and building my first projects in the ecosystem.
 
-## 🚀 Interesses
+## 🚀 Interests
 
-* Desenvolvimento de contratos inteligentes em Solidity
-* Soluções de carteiras seguras e multifirma
-* DAOs e governança descentralizada
-* Análise de dados em blockchain
+* Smart contract development with Solidity
+* Secure wallet and multi-signature solutions
+* DAOs and decentralized governance
+* Blockchain data analysis
 
-## 🎯 Objetivos
+## 🎯 Goals
 
-* Contribuir para projetos open-source no ecossistema Ethereum
-* Desenvolver dApps que resolvam problemas reais
-* Construir uma base sólida em práticas de segurança em blockchain
-* Compartilhar minha jornada de aprendizado através do GitHub
+* Contribute to open-source projects in the Ethereum ecosystem
+* Develop dApps that solve real-world problems
+* Build a strong foundation in blockchain security practices
+* Share my learning journey through GitHub
 
-## 🌱 Marco Atual
+## 🌱 Current Milestone
 
-Como parte da minha trilha de aprendizado, eu já:
+As part of my learning path, I have:
 
-* Criei este perfil no GitHub para documentar meus projetos e crescimento.
-* Implantei uma **Safe Multi-Signature Wallet** em uma testnet Ethereum, ganhando experiência prática em gestão segura de ativos.
+* Created this GitHub profile to document my projects and growth.
+* Deployed a **Safe Multi-Signature Wallet** on an Ethereum testnet, gaining practical experience in secure asset management.
 
-## 📫 Vamos nos conectar
+## 📫 Let’s Connect
 
-Fique à vontade para explorar meus repositórios e acompanhar minha jornada no universo Web3!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plabautvix&layout=compact)
+Feel free to explore my repositories and follow my journey into the Web3 space!
